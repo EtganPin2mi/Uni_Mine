@@ -1,1 +1,3 @@
-# Uni_Mine
+# Uni_Mine 
+
+just a versatile miner
